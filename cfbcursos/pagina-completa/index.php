@@ -61,19 +61,19 @@
       <div class="row">
         <div class="col-sm-8">
           <div class="rounded p-2 mb-3 bg-CinzaClaro">
-            <h2>Título do conteúdo</h2>
-            <h5>Descrição do conteúdo</h5>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec elit at arcu tincidunt suscipit vitae pharetra felis. In tempus nulla at nunc mattis scelerisque. Integer non pellentesque odio, in interdum magna.</p>
+            <h2>Conclave RPG - Dezembro de 2023</h2>
+            <h5>Evento em Jundiaí, São Paulo</h5>
+            <p>No sábado (02/12/2023), na cidade de Jundiaí - SP, acontecerá o próximo Conclave RPG, um evento de RPG aberto ao público com diversas mesas para os visitantes experimentarem sistemas de RPG de mesa. O evento acontecerá na Biblioteca Pública Municipal Professor Nelson Foot (BFN), localizada dentro do Complexo Argos, na Rua Dr. Cavalcanti, Nº 396 - Vila Arens. </p>
           </div>
           <div class="rounded p-2 mb-3 bg-CinzaClaro">
-            <h2>Título do conteúdo</h2>
-            <h5>Descrição do conteúdo</h5>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec elit at arcu tincidunt suscipit vitae pharetra felis. In tempus nulla at nunc mattis scelerisque. Integer non pellentesque odio, in interdum magna.</p>
+            <h2>GenCon2023 - Mesa Cancelada</h2>
+            <h5>Mesa de Pokémon Cancelada</h5>
+            <p>O Narrador enviou uma mensagem ao grupo da mesa informando que não poderá realizar a narração da mesa programada para a GenCon de 2023. Não foram informados detalhes do motivo. Na GenCon deste ano estava programada uma mesa com o tema de Pokémon, usando o sistema Pokémon Tabletop United, em sua versão 1.05. A camapanha chamava-se "O Mistério na Mansão".</p>
           </div>
           <div class="rounded p-2 mb-3 bg-CinzaClaro">
-            <h2>Título do conteúdo</h2>
-            <h5>Descrição do conteúdo</h5>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec elit at arcu tincidunt suscipit vitae pharetra felis. In tempus nulla at nunc mattis scelerisque. Integer non pellentesque odio, in interdum magna.</p>
+            <h2>Vídeos da RPGCon2023 disponíveis</h2>
+            <h5>Episódios no Youtube</h5>
+            <p>Já estão disponíveis os vídeos da one-shot da mesa narrada pela RPGCon2023 chamada de "A Bruma". A one-shot foi dividida em oito episódios e já pode ser conferida no canal do <a href="https://www.youtube.com/@bucaneirosdasgalaxias">youtube</a>. A gravação da transmissão original foi bloqueada pelo Youtube por motivos de licenciamento musical. </p>
           </div>
         </div>
 
